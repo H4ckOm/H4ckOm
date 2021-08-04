@@ -1,50 +1,43 @@
 {
     "basics": {
-        "name":"Omkar Deshmukh",
-        "label":"Student",
-        "picture":"https://media-exp1.licdn.com/dms/image/C4D03AQFVZcIxdnTDNw/profile-displayphoto-shrink_800_800/0/1604814630955?e=1633564800&v=beta&t=MwmPds1zBr-F0cYI6cyXlDSw4kxJxBDV5XKRbTWWGHU",
-        "email":"2019kucp1009@iiitkota.ac.in",
-        "phone":"",
-        "website":"",
-        "summary":"Prefinal year CSE undergraduate at the Indian Institute of Information Technology, Kota.",
-        "location":{
-            "address":"",
-            "postalCode":"",
-            "city":"Jaipur",
-            "countryCode":"",
-            "region":"India"
+        "name": "Omkar Deshmukh",
+        "label": "Student",
+        "picture": "https://media-exp1.licdn.com/dms/image/C4D03AQFVZcIxdnTDNw/profile-displayphoto-shrink_800_800/0/1604814630955?e=1633564800&v=beta&t=MwmPds1zBr-F0cYI6cyXlDSw4kxJxBDV5XKRbTWWGHU",
+        "email": "2019kucp1009@iiitkota.ac.in",
+        "phone": "",
+        "website": "",
+        "summary": "Prefinal year CSE undergraduate at the Indian Institute of Information Technology, Kota.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Jaipur",
+            "countryCode": "",
+            "region": "India"
         },
-        "profiles":[
-          
+        "profiles": [
             {
-                "network":"Github",
-                "username":"H4ckOm",
-                "url":"https://www.github.com/H4ckOm"
+                "network": "Github",
+                "username": "H4ckOm",
+                "url": "https://www.github.com/H4ckOm"
             },
             {
-                "network":"linkedin",
-                "username":"omkarvd",
-                "url":"https://www.linkedin.com/in/omkarvd"
-            },
-           
+                "network": "linkedin",
+                "username": "omkarvd",
+                "url": "https://www.linkedin.com/in/omkarvd"
+            }
         ]
     },
-   
-   
-    "education":[
+    "education": [
         {
-            "institution":"Indian Institute of Information technology Kota",
-            "area":"Computer Science & Engineering",
-            "studyType":"Batchelor of Technology (BTech)",
-            "startDate":"Aug 2019",
-            "endDate":"May 2023 (Expected)",
-            "gpa":"",
-            "courses":[
+            "institution": "Indian Institute of Information technology Kota",
+            "area": "Computer Science & Engineering",
+            "studyType": "Batchelor of Technology (BTech)",
+            "startDate": "Aug 2019",
+            "endDate": "May 2023 (Expected)",
+            "gpa": "",
+            "courses": [
                 "Computer Science & Engineering"
             ]
         }
     ]
-   
- 
-
 }
